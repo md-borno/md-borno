@@ -6,9 +6,7 @@ With a strong foundation in **web development, data science, and AI**, I thrive 
 I’m constantly learning, adapting, and driven by the desire to impact the world through code.
 
 ### 💼 Roles
-- **Software Engineer**
-- **Web Developer**
-- **Software Engineer** (again, for emphasis! 😉)
+![Software Engineer | Web Developer | AI Enthusiast](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00ff00&center=true&width=500&lines=Software+Engineer;Web+Developer;AI+Enthusiast)
 
 ### ⚡ Fun Facts
 - Always experimenting with **new technologies**
