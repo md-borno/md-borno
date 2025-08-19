@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Adlul Islam 👋
 
-<!--
-**md-borno/md-borno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me
+I’m **Borno**, a Computer Science and Engineering student passionate about leveraging technology to solve real-world problems.  
+With a strong foundation in **web development, data science, and AI**, I thrive on creating innovative solutions that make a difference.  
+I’m constantly learning, adapting, and driven by the desire to impact the world through code.
 
-Here are some ideas to get you started:
+### 💼 Roles
+- **Software Engineer**
+- **Web Developer**
+- **Software Engineer** (again, for emphasis! 😉)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ Fun Facts
+- Always experimenting with **new technologies**
+- Love **building projects** that solve real problems
+- Constantly improving my skills in **JavaScript, Python, and AI/ML**
+
+---
+
+### 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)  
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-lightgrey?style=for-the-badge)](https://your-portfolio-link.com)
