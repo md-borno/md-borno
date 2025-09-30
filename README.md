@@ -15,8 +15,6 @@
 ## 👨‍💻 About Me
 
 <div align="center">
-
-```javascript
 const borno = {
   code: ["JavaScript", "PHP", "Python", "Java", "C++"],
   technologies: {
@@ -31,8 +29,6 @@ const borno = {
   currentFocus: "Building scalable web applications & exploring AI/ML",
   funFact: "Reduced database query time by 40% in professional project"
 };
-```
-
 </div>
 
 ---
